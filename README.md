@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ I started learning to code in May 2023!<br>📚 I'm currently learning React & Node.js</p>
+<p align="center">🐱‍👤 The language I'm the most comfortable with is JavaScript<br>📚 I'm currently learning Kotlin<br>🪒 I'm veeery interested in learning C# and .NET</p>
 
 ###
 
