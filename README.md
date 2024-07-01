@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Ignacio, a web developer from Argentina<br><br>- I'm 18 years old  <br>- In my spare time I enjoy learning about graphics programming and gaming<br>- I'm currently studying C++</p>
+<p align="left">I'm Ignacio, a web developer from Argentina<br><br>- I'm 18 years old  <br>- In my spare time I enjoy learning about graphics programming and gaming<br>- I'm currently studying C++ and OpengGL</p>
 
 ###
 
