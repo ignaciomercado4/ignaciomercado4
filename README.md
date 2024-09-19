@@ -11,9 +11,9 @@ I'm a passionate fullstack web developer with a love for creating efficient and 
 - **Other**: C++, Linux
 
 ## 🛠️ Projects
-[Pokédex](https://github.com/ignaciomercado4/ignaciomercado4/pokedex): A modern, interactive Pokedex web application that brings the world of Pokémon to your fingertips. Built with cutting-edge web technologies and powered by the PokeAPI.
-[Exchange House](https://github.com/ignaciomercado4/ignaciomercado4/exchange-house): A sleek and user-friendly web application that allows you to check real-time exchange rates for any currency pair and amount. Built with modern web technologies featuring the ExchangeRate-API.
-[Memotest](https://github.com/ignaciomercado4/ignaciomercado4/memotest): Challenge your memory with MemoBrain, a sleek and engaging web-based Memotest game. Built with modern web technologies, this game offers a fun and interactive way to improve your concentration and recall skills.
+- [Pokédex](https://github.com/ignaciomercado4/ignaciomercado4/pokedex): A modern, interactive Pokedex web application that brings the world of Pokémon to your fingertips. Built with cutting-edge web technologies and powered by the PokeAPI.
+- [Exchange House](https://github.com/ignaciomercado4/ignaciomercado4/exchange-house): A sleek and user-friendly web application that allows you to check real-time exchange rates for any currency pair and amount. Built with modern web technologies featuring the ExchangeRate-API.
+- [Memotest](https://github.com/ignaciomercado4/ignaciomercado4/memotest): Challenge your memory with MemoBrain, a sleek and engaging web-based Memotest game. Built with modern web technologies, this game offers a fun and interactive way to improve your concentration and recall skills.
 
 ## 🌱 Currently Learning
 I'm mainly learning React and TypeScript, but in my free time you can find me learning to code little games with C++ and SFML!
