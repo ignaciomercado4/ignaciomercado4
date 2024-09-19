@@ -21,5 +21,8 @@ I'm mainly learning React and TypeScript, but in my free time you can find me le
 ## 📫 How to Reach Me
 You can reach me via [LinkedIn](www.linkedin.com/in/ignacio-mercado), or at igmercado46@gmail.com 
 
+## 🤠 Fun Fact
+My favourite games are: The Elder Scrolls V, GoW Ragnarok, LoL and Factorio.
+
 ---
 💡 Open for collaboration on interesting web development projects!
