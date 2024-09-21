@@ -19,7 +19,7 @@ I'm a passionate fullstack web developer with a love for creating efficient and 
 I'm mainly learning React and TypeScript, but in my free time you can find me learning to code little games with C++ and SFML!
 
 ## 📫 How to Reach Me
-You can reach me via [LinkedIn](www.linkedin.com/in/ignacio-mercado), or at igmercado46@gmail.com 
+You can reach me via [LinkedIn](https://www.linkedin.com/in/ignacio-mercado/), or at igmercado46@gmail.com 
 
 ## 🤠 Fun Fact
 My favourite games are: The Elder Scrolls V, GoW Ragnarok, LoL and Factorio.
