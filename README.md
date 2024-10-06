@@ -4,7 +4,7 @@
 I'm a passionate fullstack web developer with a love for creating efficient and user-friendly applications. When I'm not coding, you can find me gaming, reading, or on the soccer field.
 
 ## 💻 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+- **Frontend**: HTML, CSS, JavaScript, React, Astro, Bootstrap, Tailwind
 - **Backend**: Javascript, PHP, SQL
 - **Testing**: Cypress
 - **Databases**: MySQL, Microsoft SQL Server
