@@ -24,5 +24,7 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/ignacio-mercado/), o
 ## 🤠 Fun Fact
 My favourite games are: The Elder Scrolls V, GoW Ragnarok, LoL and Factorio.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ignaciomercado4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 ---
 💡 Open for collaboration on interesting web development projects!
