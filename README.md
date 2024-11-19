@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Ignacio
 
-<!--
-**ignaciomercado4/ignaciomercado4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic developer that likes to use contemporary technology to create creative and useful solutions. I work as a freelance developer and code for fun.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- **I code with:** JavaScript, Node.js, Express.js, Astro, React.js, Handlebars, TailwindCSS, Cypress.io.
+- **I also know how use:** PHP, Laravel, jQuery 
+
+---
+
+## Top languages
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ignaciomercado4&layout=donut&theme=dark)
+
+---
+
+## Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/ignacio-mercado)
+- 📧 [Email](mailto:igmercado46@gmail.com)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any exciting idea.
