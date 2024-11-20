@@ -1,12 +1,13 @@
 # Hello! I'm Ignacio
 
-I'm an enthusiastic developer that likes to use contemporary technology to create creative and useful solutions. I work as a freelance developer and code for fun.
+I'm an enthusiastic developer that likes to use contemporary technology to create creative and useful solutions. I work as a freelance developer and code for fun. 
 
 ---
 
 ## About me
 - **I code with:** JavaScript, Node.js, Express.js, Astro, React.js, Handlebars, TailwindCSS, Cypress.io.
-- **I also know how use:** PHP, Laravel, jQuery 
+- **I also know how to use:** PHP, Laravel, jQuery
+- **Extras:** Linux, C++.
 
 ---
 
