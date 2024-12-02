@@ -8,6 +8,7 @@ I'm a developer that likes to use contemporary technology to create creative and
 - **I code with:** JavaScript, Node.js, Express.js, Astro, React.js, Handlebars, TailwindCSS, Cypress.io.
 - **I also know how to use:** PHP, Laravel, jQuery
 - **Extras:** Linux, C++.
+- **Currently learning:** Go
 
 ---
 
