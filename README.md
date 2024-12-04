@@ -1,6 +1,6 @@
 # Hello! I'm Ignacio
 
-I'm a developer that likes to use contemporary technology to create creative and useful solutions. I work as a freelance developer and code for fun.
+I code for fun.
 
 ---
 
