@@ -5,10 +5,9 @@ I code for fun.
 ---
 
 ## About me
-- **I code with:** JavaScript, Node.js, Express.js, Astro, React.js, Handlebars, TailwindCSS, Cypress.io.
-- **I also know how to use:** PHP, Laravel, jQuery
+- **I code with:** Go, JavaScript.
+- **Frameworks and tools:** Gin, GORM, Node.js, Deno, Express.js, jQuery, React.js, Cypress.io.
 - **Extras:** Linux, C++.
-- **Currently learning:** Go
 
 ---
 
