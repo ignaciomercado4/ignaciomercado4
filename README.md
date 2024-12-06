@@ -12,7 +12,7 @@ I code for fun.
 ---
 
 ## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ignaciomercado4&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciomercado4&hide=handlebars,css,scss,html&layout=donut&theme=tokyonight)
 
 ---
 
