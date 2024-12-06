@@ -3,19 +3,16 @@
 I code for fun.
 
 ---
-
 ## About me
 - **I code with:** Go, JavaScript.
 - **Frameworks and tools:** Gin, GORM, Node.js, Deno, Express.js, jQuery, React.js, Cypress.io.
 - **Extras:** Linux, C++.
 
 ---
-
 ## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciomercado4&hide=handlebars,css,scss,html&layout=donut&theme=tokyonight)
 
 ---
-
 ## Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/ignacio-mercado)
 - 📧 [Email](mailto:igmercado46@gmail.com)
