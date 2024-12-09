@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Ignacio Mercado 
+### ⬆️ Software Developer
 
-<!--
-**ignaciomercado4/ignaciomercado4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I code (mostly) for fun
 
-Here are some ideas to get you started:
+🎸 If I'm not coding, I'm probably playing guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ignacio-mercado/) and [Email](mailto:igmercado46@gmail.com)
+
+⌨️ Technologies I've worked with:
+
+- HTML, CSS, JavaScript
+- React.js, jQuery
+- NodeJS / Express.js / Cypress.io
+- Go / Gin / GORM
+
