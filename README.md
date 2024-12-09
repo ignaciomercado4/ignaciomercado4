@@ -9,8 +9,9 @@
 
 ⌨️ Technologies I've worked with:
 
-- HTML, CSS, JavaScript
-- React.js, jQuery
+- HTML / CSS / JavaScript
+- React.js / jQuery
 - NodeJS / Express.js / Cypress.io
 - Go / Gin / GORM
+- SQLite / MySQL / Microsoft SQL Server
 
