@@ -13,5 +13,5 @@
 - React.js / jQuery
 - NodeJS / Express.js / Cypress.io
 - Go / Gin / GORM
-- SQLite / MySQL / Microsoft SQL Server
+- SQLite / MySQL / Microsoft SQL Server / PostgreSQL
 
