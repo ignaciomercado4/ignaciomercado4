@@ -14,5 +14,5 @@
 - NodeJS / Express.js / Cypress.io
 - Go / Gin / GORM
 - SQLite / MySQL / Microsoft SQL Server / PostgreSQL
-
-[![wakatime](https://wakatime.com/badge/user/a2c5470c-95ab-4bd3-808e-f33e5417afce.svg)](https://wakatime.com/@a2c5470c-95ab-4bd3-808e-f33e5417afce)
+  
+<a href="https://wakatime.com/@a2c5470c-95ab-4bd3-808e-f33e5417afce"><img src="https://wakatime.com/badge/user/a2c5470c-95ab-4bd3-808e-f33e5417afce.svg" alt="Total time coded since Jan 6 2025" /></a>
